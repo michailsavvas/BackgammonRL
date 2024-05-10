@@ -1,0 +1,1 @@
+Percentage of minimax wins vs random in 300 iterations: 0.550000

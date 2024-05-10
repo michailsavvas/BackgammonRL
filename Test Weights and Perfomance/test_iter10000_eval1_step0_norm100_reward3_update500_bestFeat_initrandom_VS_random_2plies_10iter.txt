@@ -1,0 +1,1 @@
+Percentage of minimax wins vs random in 10 iterations: 0.800000

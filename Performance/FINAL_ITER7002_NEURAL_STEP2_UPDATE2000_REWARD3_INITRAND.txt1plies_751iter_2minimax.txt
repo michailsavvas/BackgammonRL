@@ -1,0 +1,1 @@
+Percentage of minimax wins vs random in 751 iterations: 0.566667

@@ -1,0 +1,1 @@
+Percentage of minimax wins vs random in 1255 iterations: 0.535885
