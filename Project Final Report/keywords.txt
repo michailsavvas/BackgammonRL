@@ -1,8 +1,0 @@
-backgammon
-TD-learning
-reinforcement learning
-limited tree search
-adversarial game
-neural networks
-
-
