@@ -1,6 +1,6 @@
 This is my final project for the class "CS221: Artificial Intelligence: Principles and Techniques", taken at Stanford University in Fall 2015.
 
-The project is titled "An AI Agent for Backgammon". The goal of this project is to develop a smart AI agent to play backgammon. We follow
+The project is titled "An AI Agent for Backgammon". The goal is to develop a smart AI agent to play backgammon. We follow
 Gerald Tesauro’s approach and use reinforcement learning with a sigmoid linear evaluation function and a neural network evaluation function.
 
 Keywords: backgammon, TD-learning, reinforcement learning, limited tree search, adversarial game, neural networks
