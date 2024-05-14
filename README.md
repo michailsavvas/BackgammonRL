@@ -1,4 +1,13 @@
-The following files are included:
+This is my final project for the class "CS221: Artificial Intelligence: Principles and Techniques", taken at Stanford University in Fall 2015.
+
+The project is titled "An AI Agent for Backgammon". The goal of this project is to develop a smart AI agent to play backgammon. We follow
+Gerald Tesauro’s approach and use reinforcement learning with a sigmoid linear evaluation function and a neural network evaluation function.
+
+Keywords: backgammon, TD-learning, reinforcement learning, limited tree search, adversarial game, neural networks
+
+The final report for the project is located in the file "final.pdf".
+
+Besides the final report, the following files are included:
 
 - game.py : contains the mechanics of the game of the backgammon
 
@@ -41,7 +50,7 @@ The following files are included:
 
 - init_labels_neural.txt : Contains the names of all the 10001 weights for the neural net
 
-The following folders are included:
+In addition, the following folders are included:
 
 - Performance : Contains various text files with percentages of wins of minimax vs. random obtained by running trained_vs_random.py
 
